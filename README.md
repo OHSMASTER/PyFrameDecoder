@@ -1,6 +1,6 @@
 # PyFrameDecoder
 
-is an advanced Python script designed for detailed analysis of network frame data. It decodes and extracts crucial information directly from a sequence of bytes in a network frame. This script is capable of handling a variety of data elements, providing deep insights into the structure and content of network traffic.
+Is an advanced Python script designed for detailed analysis of network frame data. It decodes and extracts crucial information directly from a sequence of bytes in a network frame. This script is capable of handling a variety of data elements, providing deep insights into the structure and content of network traffic.
 
 ## Features
 
