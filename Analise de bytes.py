@@ -42,7 +42,7 @@ def extract_data_from_frame(frame):
     }
 
 def get_frame_from_user():
-    frame_input = input("Por favor, insira os bytes do frame (com ou sem espaços): ")
+    frame_input = input("Enter the bytes (with or without spaces):")
     formatted_frame = frame_input.replace(" ", "") 
     return formatted_frame
 
