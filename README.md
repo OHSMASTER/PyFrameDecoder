@@ -23,10 +23,10 @@ To analyze network frame data using PyFrameDecoder, follow these steps:
 
 2. Open your terminal.
 
-3. Execute the PyFrameDecoder script with network frame data as an argument. Replace `'network frame data'` with your actual frame data.
+3. Execute the PyFrameDecoder script with network frame data as an argument.
 
 ```bash
-   python3 PyFrameDecoder.py 'network frame data'
+   python3 PyFrameDecoder.py
 ```
 
 ![PyFrameDecoder](https://img001.prntscr.com/file/img001/JlHhd7X1Q_ay5K8Rzwx4mA.png)
