@@ -16,8 +16,7 @@ To analyze network frame data using PyFrameDecoder, follow these steps:
 
 2. Install the required libraries (if not already installed) as mentioned above.
 
-### Prerequisites
-
+### Requirements
 Before using PyFrameDecoder, make sure you have the required libraries installed:
 
 | Library              | Description                                   | Installation Command         |
