@@ -6,6 +6,16 @@
 - **TCP Flags**: Analyzes TCP flags to understand the state and control of the transmission.
 - **Additional Information**: Includes analysis of other elements like Ethernet type, IP version, header length, total length, and TTL (Time To Live).
 
+
+
+### Running PyFrameDecoder
+
+To analyze network frame data using PyFrameDecoder, follow these steps:
+
+1. Open your terminal.
+
+2. Install the required libraries (if not already installed) as mentioned above.
+
 ### Prerequisites
 
 Before using PyFrameDecoder, make sure you have the required libraries installed:
@@ -14,14 +24,6 @@ Before using PyFrameDecoder, make sure you have the required libraries installed
 |----------------------|-----------------------------------------------|-----------------------------|
 | [tabulate](https://pypi.org/project/tabulate/)   | To format tables in Python.                  | `pip install tabulate`      |
 | [requests](https://pypi.org/project/requests/)   | For making HTTP requests in Python.          | `pip install requests`      |
-
-### Running PyFrameDecoder
-
-To analyze network frame data using PyFrameDecoder, follow these steps:
-
-1. Install the required libraries (if not already installed) as mentioned above.
-
-2. Open your terminal.
 
 3. Execute the PyFrameDecoder.
 
