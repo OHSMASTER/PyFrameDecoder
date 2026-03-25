@@ -41,6 +41,3 @@ Before you begin, ensure that you have the following libraries installed:
 00 0c 29 76 43 e1 d4 ab 82 45 c4 0c 08 00 45 00 00 28 b5 f5 40 00 31 06 ff 0b 25 3b ae e1 c0 a8 00 0a 23 82 8f 48 00 00 00 00 04 81 18 d0 50 14 00 00 4a e6 00 00 00 00 00 00 00 00
 ```
 
-### Here's an example output of PyFrameDecoder:
-
-![PyFrameDecoder](https://img001.prntscr.com/file/img001/JlHhd7X1Q_ay5K8Rzwx4mA.png)
